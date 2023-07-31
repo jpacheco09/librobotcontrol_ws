@@ -4,7 +4,7 @@ This repo contains several projects generated during the development of the _Car
 
 .
  * [dir2](./dir2)
- * [HLib](./Hlib): BeagleBoneBlue Hardware library **release versions**.
+ * [HLib](./HLib): BeagleBoneBlue Hardware library **release versions**.
    * [v0.2](./Hlib/v0.2)
    * [v0.3](./Hlib/v0.3)
  * [HardwareBeableBoneBlue](./HardwareBeableBoneBlue): BeagleBoneBlue Hardware library **development versions**.
