@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/libtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -std=gnu++11 -o CMakeFiles/curr_cal.dir/src/ina260_cal.cpp.o -c /home/jpacheco/librobotcontrol_ws/libtest/src/ina260_cal.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/libtest/src/ina260_cal.cpp"
+},
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/libtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -std=gnu++11 -o CMakeFiles/i2c_test.dir/src/test_i2c.cpp.o -c /home/jpacheco/librobotcontrol_ws/libtest/src/test_i2c.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/libtest/src/test_i2c.cpp"
+},
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/libtest/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -std=gnu++11 -o CMakeFiles/eqep_test.dir/src/eqep_test.cpp.o -c /home/jpacheco/librobotcontrol_ws/libtest/src/eqep_test.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/libtest/src/eqep_test.cpp"
+}
+]

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HARDWARE_BEAGLEBONE_BLUE",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BBBLLogger::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BBBLLogger-Debug-cc52512e0b0e398475eb.json",
+					"name" : "BBBLLogger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HardwareBeagleBoneBlue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HardwareBeagleBoneBlue-Debug-923c9a284c7df8b975a3.json",
+					"name" : "HardwareBeagleBoneBlue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jpacheco/librobotcontrol_ws/HardwareBeagleBoneBlue/build",
+		"source" : "/home/jpacheco/librobotcontrol_ws/HardwareBeagleBoneBlue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

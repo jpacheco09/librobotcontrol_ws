@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Logger.hpp
+string
+-
+
+/home/beagle/librocontrol_ws/HardwareBBBL/v0.2/src/Logger.cpp
+errno.h
+-
+stdarg.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+string
+-
+cstring
+-
+Logger.hpp
+/home/beagle/librocontrol_ws/HardwareBBBL/v0.2/src/Logger.hpp
+

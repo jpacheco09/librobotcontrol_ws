@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/phtread_test.dir/src/main.cpp.o -o ../bin/phtread_test  /usr/lib/libHardwareBeagleBoneBlue.so -lROBOTCONTROL_LIB-NOTFOUND 

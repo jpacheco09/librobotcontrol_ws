@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/dcMotor_driver/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -std=gnu++11 -o CMakeFiles/pinmux_test.dir/src/main.cpp.o -c /home/jpacheco/librobotcontrol_ws/dcMotor_driver/src/main.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/dcMotor_driver/src/main.cpp"
+}
+]

@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "libtest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "curr_cal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-curr_cal-Debug-ae31d4b21af653ade5bb.json",
+					"name" : "curr_cal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eqep_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eqep_test-Debug-fb3cd5a4830a652ac3aa.json",
+					"name" : "eqep_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "i2c_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-i2c_test-Debug-b3327327812370084383.json",
+					"name" : "i2c_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jpacheco/librobotcontrol_ws/libtest/build",
+		"source" : "/home/jpacheco/librobotcontrol_ws/libtest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

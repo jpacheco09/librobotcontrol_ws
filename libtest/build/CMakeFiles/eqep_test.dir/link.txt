@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/eqep_test.dir/src/eqep_test.cpp.o -o ../bin/eqep_test  -lrobotcontrol -lHardwareBeagleBoneBlue 

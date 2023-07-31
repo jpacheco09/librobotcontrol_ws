@@ -1,0 +1,6 @@
+/usr/lib/libBBBLLogger.so
+/usr/local/include/Logger.hpp
+/usr/lib/libHardwareBeagleBoneBlue.so
+/usr/local/include/HardwareBeagleBoneBlue.hpp
+/usr/local/include/ina260.hpp
+/usr/local/include/pca9685.hpp

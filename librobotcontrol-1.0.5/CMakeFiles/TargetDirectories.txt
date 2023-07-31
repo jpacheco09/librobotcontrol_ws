@@ -1,0 +1,5 @@
+/home/jpacheco/librobotcontrol_ws/librobotcontrol-1.0.5/CMakeFiles/rebuild_cache.dir
+/home/jpacheco/librobotcontrol_ws/librobotcontrol-1.0.5/CMakeFiles/edit_cache.dir
+/home/jpacheco/librobotcontrol_ws/librobotcontrol-1.0.5/library/CMakeFiles/rebuild_cache.dir
+/home/jpacheco/librobotcontrol_ws/librobotcontrol-1.0.5/library/CMakeFiles/robotics_cape.dir
+/home/jpacheco/librobotcontrol_ws/librobotcontrol-1.0.5/library/CMakeFiles/edit_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/pthread_test/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -std=gnu++14 -o CMakeFiles/slip.dir/src/sleep_thread.cpp.o -c /home/jpacheco/librobotcontrol_ws/pthread_test/src/sleep_thread.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/pthread_test/src/sleep_thread.cpp"
+}
+]

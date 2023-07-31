@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libBBBLLogger.so -o libBBBLLogger.so CMakeFiles/BBBLLogger.dir/src/Logger.cpp.o 

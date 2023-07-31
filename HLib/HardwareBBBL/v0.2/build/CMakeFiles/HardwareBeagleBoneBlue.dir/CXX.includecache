@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/HardwareBeagleBoneBlue.hpp
+
+/home/beagle/librocontrol_ws/HardwareBBBL/v0.2/src/HardwareBeagleBoneBlue.cpp
+iostream
+-
+chrono
+-
+thread
+-
+vector
+-
+rc/i2c.h
+-
+rc/time.h
+-
+rc/mpu.h
+-
+HardwareBeagleBoneBlue.hpp
+/home/beagle/librocontrol_ws/HardwareBBBL/v0.2/src/HardwareBeagleBoneBlue.hpp
+

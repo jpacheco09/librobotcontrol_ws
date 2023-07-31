@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beagle/librocontrol_ws/lib_test/src/ina260_cal.cpp
+iostream
+-
+signal.h
+-
+chrono
+-
+rc/start_stop.h
+-
+rc/encoder_eqep.h
+-
+rc/time.h
+-
+rc/i2c.h
+-
+pca9685.hpp
+-
+ina260.hpp
+-
+

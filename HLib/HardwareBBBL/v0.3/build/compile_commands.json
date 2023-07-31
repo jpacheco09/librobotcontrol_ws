@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DHardwareBeagleBoneBlue_EXPORTS -I/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/include -g -fPIC -std=gnu++11 -o CMakeFiles/HardwareBeagleBoneBlue.dir/src/HardwareBeagleBoneBlue.cpp.o -c /home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/HardwareBeagleBoneBlue.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/HardwareBeagleBoneBlue.cpp"
+},
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DHardwareBeagleBoneBlue_EXPORTS -I/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/include -g -fPIC -std=gnu++11 -o CMakeFiles/HardwareBeagleBoneBlue.dir/src/ina260.cpp.o -c /home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/ina260.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/ina260.cpp"
+},
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DHardwareBeagleBoneBlue_EXPORTS -I/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/include -g -fPIC -std=gnu++11 -o CMakeFiles/HardwareBeagleBoneBlue.dir/src/pca9685.cpp.o -c /home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/pca9685.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/pca9685.cpp"
+},
+{
+  "directory": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DBBBLLogger_EXPORTS -I/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/include -g -fPIC -std=gnu++11 -o CMakeFiles/BBBLLogger.dir/src/Logger.cpp.o -c /home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/Logger.cpp",
+  "file": "/home/jpacheco/librobotcontrol_ws/HLib/HardwareBBBL/v0.3/src/Logger.cpp"
+}
+]

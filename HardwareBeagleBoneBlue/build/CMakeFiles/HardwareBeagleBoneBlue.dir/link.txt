@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -fPIC -g -shared -Wl,-soname,libHardwareBeagleBoneBlue.so -o libHardwareBeagleBoneBlue.so CMakeFiles/HardwareBeagleBoneBlue.dir/src/HardwareBeagleBoneBlue.cpp.o 

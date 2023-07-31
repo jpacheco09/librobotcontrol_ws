@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/pinmux_test.dir/src/main.cpp.o -o ../bin/pinmux_test  -lrobotcontrol -lHardwareBeagleBoneBlue 
