@@ -1,7 +1,7 @@
 # librobotcontrol_ws
 This repo contains several projects generated during the development of the _Carrito-Bot_
 # Project tree
-
+The repo contents are organized as follows:
 .
  * [dir2](./dir2)
  * [HLib](./HLib): BeagleBoneBlue Hardware library **release versions**.
@@ -14,4 +14,4 @@ This repo contains several projects generated during the development of the _Car
  * [libtest](./libtest): Unit tests for the robots BeagleBoneBlue Hardware library.
  * [phtread_test](./phthread_test): Threading training.
  * [README.md](./README.md)
- * 
+. 
