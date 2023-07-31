@@ -5,8 +5,8 @@ This repo contains several projects generated during the development of the _Car
 .
  * [dir2](./dir2)
  * [HLib](./HLib): BeagleBoneBlue Hardware library **release versions**.
-   * [v0.2](./Hlib/v0.2)
-   * [v0.3](./Hlib/v0.3)
+   * [v0.2](./HLib/HardwareBBBL/v0.2): added INA260 current sensor module. 
+   * [v0.3](./HLib/HardwareBBBL/v0.3): added PCA9685 pwm module.
  * [HardwareBeableBoneBlue](./HardwareBeableBoneBlue): BeagleBoneBlue Hardware library **development versions**.
  * [dcMotor_driver](./dcMotor_driver):
  * [drv8871-lib](./drv8871-lib): codding to interface wit the drv8871 AdaFruit motor driver.
