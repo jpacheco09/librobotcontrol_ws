@@ -9,9 +9,9 @@ The repo contents are organized as follows:
    * [v0.3](./HLib/HardwareBBBL/v0.3): added PCA9685 pwm module.
  * [HardwareBeableBoneBlue](./HardwareBeableBoneBlue): BeagleBoneBlue Hardware library **development versions**.
  * [dcMotor_driver](./dcMotor_driver):
- * [drv8871-lib](./drv8871-lib): codding to interface wit the drv8871 AdaFruit motor driver.
+ * [drv8871-lib](./drv8871-lib): BBBL interface with the drv8871 AdaFruit motor driver.
  * [librobotcontrol-1.0.5](./librobotcontrol-1.0.5): local backup for the Robert Nelson [Robot Control Library](https://github.com/beagleboard/librobotcontrol).
- * [libtest](./libtest): Unit tests for the robots BeagleBoneBlue Hardware library.
+ * [libtest](./libtest): Unit tests for the robot BeagleBoneBlue Hardware library.
  * [phtread_test](./phthread_test): Threading training.
  * [README.md](./README.md)
 . 
