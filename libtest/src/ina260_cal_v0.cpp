@@ -9,13 +9,7 @@
 
 #include<pca9685.hpp>
 #include<ina260.hpp>
-/*
-Siento que he procrastinado mucho hacer cualquier prueba con mi plataforma por 
-miedo a que algo falle, o bien, que no funcione a la primera y no ser capaz de 
-i) entender, ii) arreglarlo. Sin dudas necesito que me guien, o bien, dejar de 
-ser tan qlombrga y ponerme a darle, sin miedo a dañar algo. 
-*/
-//------------------------------------------------------------------------------  
+
 static int running = 0;
 // interrupt handler ctrl-c
 static void __signal_handler(__attribute__ ((unused)) int dummy){
